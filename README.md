@@ -3,6 +3,8 @@ UWU what's this
 
 tera 3rd splash loading screen
 
+made by my friend: 桜小路アトレ
+
 ![Screenshot](https://i.imgur.com/J6jnOaZ.png)
 
 ## How to use:
