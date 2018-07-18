@@ -7,5 +7,6 @@ tera 3rd splash loading screen
 
 ## How to use:
 
-Go to /Tera/Client/S1Game/Splash
-Replace the existing files (or rename) with the newly downloaded images
+1.Go to /Tera/Client/S1Game/Splash
+
+2.Replace the existing files (or rename) with the newly downloaded images
