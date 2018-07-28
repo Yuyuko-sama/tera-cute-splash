@@ -7,7 +7,7 @@ made by my friend: 桜小路アトレ
 
 ![Screenshot](https://i.imgur.com/J6jnOaZ.png)
 
-![Screenshot](https://imgur.com/WcQYUn)
+![Screenshot](https://imgur.com/WcQYUn.png)
 
 ## How to use:
 
