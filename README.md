@@ -7,6 +7,8 @@ made by my friend: 桜小路アトレ
 
 ![Screenshot](https://i.imgur.com/J6jnOaZ.png)
 
+![Screenshot](https://imgur.com/WcQYUn)
+
 ## How to use:
 
 1.Go to /Tera/Client/S1Game/Splash
