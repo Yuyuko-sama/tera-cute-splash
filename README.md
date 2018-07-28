@@ -1,7 +1,7 @@
 # tera-cute-splash
 UWU what's this
 
-tera 3rd splash loading screen
+tera  splash loading screen
 
 made by my friend: 桜小路アトレ
 
